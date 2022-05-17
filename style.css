@@ -1,0 +1,108 @@
+.scroll {
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+}
+
+.redadd {
+  background-color: red;
+  color: white;
+  height: 6rem;
+}
+
+.testb {
+  border: none;
+  background-color: unset;
+  color: white;
+}
+
+.card {
+  border: none;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+h1:hover {
+  color: red;
+}
+
+.red {
+  color: red;
+}
+
+th {
+  color: red;
+}
+
+td:hover {
+  color: red;
+}
+
+.col-2 {
+  color: white;
+}
+
+li:hover {
+  color: red;
+}
+
+hr:hover {
+  color: red;
+}
+
+.container {
+  overflow-x: hidden;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  display: inline-block;
+}
+
+.nav-link {
+  color: white;
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  /* width: 550px; */
+  background-color: rgb(37, 35, 35);
+  border-radius: 10px;
+  padding: 62px 80px;
+}
+
+.centerh1 {
+  text-align: center;
+  padding: 0 0 20px 0;
+}
+
+.form-floating>.form-control {
+  height: 3rem;
+  background-color: rgb(63, 60, 60);
+  margin-top: 10px;
+}
+
+.btn-primary {
+  background-color: rgb(190, 55, 31);
+  border-color: rgb(184, 54, 31);
+}
+
+.pass {
+  text-align: left;
+  font-size: 1rem;
+  margin-bottom: 20px;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: rgb(190, 55, 31);
+  border-color: rgb(184, 54, 31);
+}
